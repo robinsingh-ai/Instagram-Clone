@@ -1,0 +1,19 @@
+.createpost {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: 100px auto;
+  padding: 20px;
+  box-shadow: 0px 6px 15px -9px rgba(0, 0, 0, 75);
+  border: 1px solid lightgray;
+}
+
+input {
+  margin-top: 30px !important;
+}
+
+button {
+  margin: 20px 0px !important;
+  outline-width: 0 !important;
+}

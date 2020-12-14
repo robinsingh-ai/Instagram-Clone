@@ -1,0 +1,79 @@
+.homepost__img {
+  width: 100%;
+
+  object-fit: contain;
+}
+
+.home {
+  max-width: 700px;
+  /* margin-top: 40px; */
+  box-shadow: 0px 6px 15px -9px rgba(0, 0, 0, 75);
+  margin: 35px auto;
+  background-color: white;
+  border-top: 1px solid rgb(226, 225, 225);
+  border-bottom: 1px solid rgb(226, 225, 225);
+  /* margin-bottom: 40px; */
+}
+
+.home__postText {
+  font-weight: normal;
+  padding: 5px 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.like__button {
+  width: 50px;
+}
+
+.profile__postname {
+  color: black !important;
+}
+.profile__postlink {
+  text-decoration: none !important;
+}
+
+.home__postText > .MuiSvgIcon-root {
+  margin-bottom: 4px;
+}
+
+.home__AvatarUser {
+  align-items: center;
+  display: flex;
+  padding: 20px;
+}
+
+.home__postcomment {
+  flex: 1;
+}
+
+.home__postheader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.home__delete {
+  margin-right: 20px !important;
+}
+
+.home__commentbutton {
+  color: rgb(77, 128, 224);
+  flex: 0;
+}
+
+.home__form {
+  display: flex;
+  margin: 5px 20px;
+}
+
+.home__avatarimg {
+  margin-right: 10px;
+}
+
+.home__posted_comm {
+  padding: 3px 15px;
+}
+
+.home__redfav {
+  color: red !important;
+}

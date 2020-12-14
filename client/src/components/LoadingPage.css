@@ -1,0 +1,9 @@
+.loadingpage {
+  display: grid;
+  place-items: center;
+  height: 30vw;
+}
+
+.loadingpage > img {
+  object-fit: contain;
+}

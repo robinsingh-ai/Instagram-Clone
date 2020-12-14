@@ -1,0 +1,10 @@
+.profile__postsimg {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile__postimg {
+  margin-top: 25px;
+  width: 30% !important;
+  cursor: pointer;
+}

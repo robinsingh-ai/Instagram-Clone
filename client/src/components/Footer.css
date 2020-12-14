@@ -1,0 +1,22 @@
+.footer {
+  border-top: 1px solid lightgray;
+  margin-top: 25px;
+  padding-top: 10px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.footer > p {
+  color: gray;
+  font-size: medium;
+}
+
+h3 {
+  font-size: medium;
+}
+
+.github__logo {
+  text-decoration: none !important;
+  font-size: 25px;
+  color: black !important;
+}

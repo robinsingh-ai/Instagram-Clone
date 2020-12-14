@@ -1,0 +1,57 @@
+.App__img {
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+  padding: inherit;
+}
+
+.header {
+  background-color: rgba(255, 255, 255, 1);
+  border-bottom: 1px solid rgb(211, 210, 210);
+  top: 0;
+  position: sticky;
+  z-index: 1;
+}
+
+.login__container {
+  display: flex;
+  align-items: center;
+}
+
+.profile__avatar {
+  margin-right: 7px;
+  font-size: 20px !important;
+  size: 20px !important;
+}
+
+.navbar__mainbutton {
+  /* margin-top: 10px !important; */
+  text-transform: inherit !important;
+  padding: 0px 100px;
+  outline-width: 0;
+  background-color: #3bb7ff !important;
+  color: white !important;
+  font-weight: bold !important;
+  margin-left: 5px !important;
+}
+
+.navbar__mainbutton:hover {
+  color: #15a9ff !important;
+  background-color: white !important;
+}
+
+.header__search {
+  display: flex;
+  align-items: center;
+}
+
+.header__searchicon {
+  display: flex;
+  align-items: center;
+}
+
+.header__search > input {
+  margin-bottom: 30px;
+  border: none;
+  outline-width: 0;
+}
