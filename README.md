@@ -9,7 +9,7 @@
 </p>
 
 
-✨ A MERN Stack Clone of the social networking giant - Instagram,Instagram Clone (Both frontend and backend) created MERN Stack
+✨ A MERN Stack Clone of the social networking giant - Instagram,Instagram Clone (Both frontend and backend) created with MERN Stack
 
 ## Features
 An application where users can:
