@@ -25,6 +25,11 @@ An application where users can:
 - Update Profile Pic
 - View Followed User's Uploaded Pic
 
+
+## TODO
+- [ ] Search User's
+- [ ] Message Functionality
+- [ ] Suggestion Page
 ## Tech Stack
 
 - React Js
